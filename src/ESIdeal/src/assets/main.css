@@ -1,0 +1,28 @@
+:root {
+    --background-color: #f4f9fc;
+    --accent-color: #6da2d1;
+    --accent-color-2: #6da2d162;
+    --dark-color: #3d4753;
+    --text-color: #ffffff;
+    --text-color-2: #FEFAF8;
+    --text-dim-color: #b1b7bb;
+    --light-red: #d47b7b;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Outfit", "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--background-color);
+}
+
+.font-conf-1 {
+    font-family: "Outfit", "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
